@@ -1,19 +1,22 @@
 # 💦 linux-materials
 
-## 📚 Contents
-[Introduction](#📚-introduction)
-[Module 1 - Understanding Linux Concept](#📚-module-1---understanding-linux-concept)
-[Module 2 - Download, Install and Configure](#📚-module-2---download-install-and-configure)
-[Module 3 - System Access and File System](#📚-module-3---system-access-and-file-system)
-[Module 4 - Linux Fundamentals](#📚-module-4---linux-fundamentals)
-[Module 5 - System Administration](#📚-module-5---system-administration)
-[Module 6 - Shell Scripting](#📚-module-6---shell-scripting)
-[Module 7 - Networking, Services, and System Updates](#📚-module-7---networking-services-and-system-updates)
-[Module 8 - Disk Management and Run Levels](#📚-module-8---disk-management-and-run-levels)
+## 📚 List of Contents
 
+[Introduction](#📚-introduction) </br>
+[Module 1 - Understanding Linux Concept](#📚-module-1---understanding-linux-concept) </br>
+[Module 2 - Download, Install and Configure](#📚-module-2---download-install-and-configure) </br>
+[Module 3 - System Access and File System](#📚-module-3---system-access-and-file-system) </br>
+[Module 4 - Linux Fundamentals](#📚-module-4---linux-fundamentals) </br>
+[Module 5 - System Administration](#📚-module-5---system-administration) </br>
+[Module 6 - Shell Scripting](#📚-module-6---shell-scripting) </br>
+[Module 7 - Networking, Services, and System Updates](#📚-module-7---networking-services-and-system-updates) </br>
+[Module 8 - Disk Management and Run Levels](#📚-module-8---disk-management-and-run-levels) </br>
+
+___
 
 ## 📚 Introduction
 
+___
 
 ## 📚 Module 1 - Understanding Linux Concept
 
@@ -30,7 +33,7 @@
 
 
 
-
+___
 
 
 ## 📚 Module 2 - Download, Install and Configure
@@ -44,7 +47,7 @@
 
 
 
-
+___
 
 
 ## 📚 Module 3 - System Access and File System
@@ -85,7 +88,7 @@
 
 
 
-
+___
 
 ## 📚 Module 4 - Linux Fundamentals
 
@@ -136,6 +139,9 @@
 ### :pushpin: Combining and Splitting Files 
 
 ### :pushpin: Linux vs. Windows Commands
+
+
+___
 
 ## 📚 Module 5 - System Administration
 
@@ -204,6 +210,7 @@
 ### :pushpin: Special Permissions with setuid, setgid and stick bit
 
 
+___
 
 
 ## 📚 Module 6 - Shell Scripting
@@ -235,6 +242,10 @@
 ### :pushpin: User and Global Aliases
 
 ### :pushpin: Shell History (history)
+
+
+___
+
 
 ## 📚 Module 7 - Networking, Services, and System Updates
 
@@ -314,6 +325,9 @@
 
 
 
+___
+
+
 ## 📚 Module 8 - Disk Management and Run Levels
 
 
@@ -365,4 +379,6 @@
 
 ### :pushpin: Difference between CentOS/ RHEL 7 and 8
 
+
+___
 
