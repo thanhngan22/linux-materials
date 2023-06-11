@@ -20,16 +20,16 @@ ___
 
 ## 📚 Module 1 - Understanding Linux Concept
 
-### :pushpin: What is Linux?
+- What is Linux?
 
-### :pushpin: Unix vs. Linux
+- Unix vs. Linux
 
-### :pushpin: Linux Distributions
+- Linux Distributions
 
-### :pushpin: Linux Users
+- Linux Users
 
 
-### :pushpin: Linux vs. Windows
+- Linux vs. Windows
 
 
 
@@ -39,10 +39,10 @@ ___
 ## 📚 Module 2 - Download, Install and Configure
 
 
-### :pushpin: What is Virtual Box ?
+- What is Virtual Box ?
 
 
-### :pushpin: CentOS vs. CentOS Stream 
+- CentOS vs. CentOS Stream 
 
 
 
@@ -52,39 +52,39 @@ ___
 
 ## 📚 Module 3 - System Access and File System
 
-### :pushpin: Important things to remember in Linux
+- Important things to remember in Linux
 
-### :pushpin: Access to Linux System
+- Access to Linux System
 
-### :pushpin: Access Linux via Putty or SSH command line
+- Access Linux via Putty or SSH command line
 
-### :pushpin: Command Prompts and Getting Prompts Back
+- Command Prompts and Getting Prompts Back
 
-### :pushpin: FileSystem Structure and Description
+- FileSystem Structure and Description
 
-### :pushpin: FileSystem Navigation Commands (cd, ls and pwd)
+- FileSystem Navigation Commands (cd, ls and pwd)
 
-### :pushpin: Linux File or Directory Properties
+- Linux File or Directory Properties
 
-### :pushpin: Linux File Types
+- Linux File Types
 
-### :pushpin: What is root?
+- What is root?
 
-### :pushpin: Changing password
+- Changing password
 
-### :pushpin: Absolute and Relative Paths
+- Absolute and Relative Paths
 
-### :pushpin: Creating Files and Directories (touch, cp, vi, mkdir)
+- Creating Files and Directories (touch, cp, vi, mkdir)
 
-### :pushpin: Copying directories 
+- Copying directories 
 
-### :pushpin: Finding files and directories (find, locate)
+- Finding files and directories (find, locate)
 
-### :pushpin: Difference between find and locate commands
+- Difference between find and locate commands
 
-### :pushpin: WildCards ( * , ? , [] )
+- WildCards ( * , ? , [] )
 
-### :pushpin: Soft and Hard Links (ln)
+- Soft and Hard Links (ln)
 
 
 
@@ -92,122 +92,122 @@ ___
 
 ## 📚 Module 4 - Linux Fundamentals
 
-### :pushpin: Linux Command Syntax
+- Linux Command Syntax
 
-### :pushpin: Files and Directory Permissions (chmod)
+- Files and Directory Permissions (chmod)
 
-### :pushpin: File Permissions Using Numeric Mode
+- File Permissions Using Numeric Mode
 
-### :pushpin: File Ownership Commands (chown, chgrp)
+- File Ownership Commands (chown, chgrp)
 
-### :pushpin: Access Control List (ACL)
+- Access Control List (ACL)
 
-### :pushpin: Help Commands
+- Help Commands
 
-### :pushpin: TAB Completion and Up Arrow Keys
+- TAB Completion and Up Arrow Keys
 
-### :pushpin: Adding Text to Files
+- Adding Text to Files
 
-### :pushpin: Input and Output Redirects (>, >>, <, stdin, stdout, stderr)
+- Input and Output Redirects (>, >>, <, stdin, stdout, stderr)
 
-### :pushpin: Standard Output to a file (tee command)
+- Standard Output to a file (tee command)
 
-### :pushpin: Pipes (|)
+- Pipes (|)
 
-### :pushpin: File Maintenance Commands (cp, mv, rm, mkdir, rmdir)
+- File Maintenance Commands (cp, mv, rm, mkdir, rmdir)
 
-### :pushpin: File Display Commands (cat, more, less, head, tail)
+- File Display Commands (cat, more, less, head, tail)
 
-### :pushpin: Filters/ Text Processing Commands
+- Filters/ Text Processing Commands
 
-### :pushpin: cut - Text Processors Commands
+- cut - Text Processors Commands
 
-### :pushpin: awk - Text Processors Commands
+- awk - Text Processors Commands
 
-### :pushpin: grep/egrep - Text Processors Commands
+- grep/egrep - Text Processors Commands
 
-### :pushpin: sort/uniq - Text Processors Commands
+- sort/uniq - Text Processors Commands
 
-### :pushpin: wc - Text Processors Commands
+- wc - Text Processors Commands
 
-### :pushpin: Compare Files (diff, cmp)
+- Compare Files (diff, cmp)
 
-### :pushpin: Compress and Uncompress Files (gzip, gunzip, tar)
+- Compress and Uncompress Files (gzip, gunzip, tar)
 
-### :pushpin: Truncate File Size (truncate)
+- Truncate File Size (truncate)
 
-### :pushpin: Combining and Splitting Files 
+- Combining and Splitting Files 
 
-### :pushpin: Linux vs. Windows Commands
+- Linux vs. Windows Commands
 
 
 ___
 
 ## 📚 Module 5 - System Administration
 
-### :pushpin: Linux File Editor (vi)
+- Linux File Editor (vi)
 
-### :pushpin: Difference between vi and vim Editors
+- Difference between vi and vim Editors
 
-### :pushpin: "sed" command
+- "sed" command
 
-### :pushpin: User Account Management (useradd, groupadd, usermod, userdel, groupmod, groupdel)
+- User Account Management (useradd, groupadd, usermod, userdel, groupmod, groupdel)
 
-### :pushpin: Enable Password Aging 
+- Enable Password Aging 
 
-### :pushpin: Switch Users and Sudo Access (su, sudo)
+- Switch Users and Sudo Access (su, sudo)
 
-### :pushpin: Monitor Users (who, last, w, id)
+- Monitor Users (who, last, w, id)
 
-### :pushpin: Talking to Users (users, wall, write)
+- Talking to Users (users, wall, write)
 
-### :pushpin: Linux Directory Service - Account Authentication 
+- Linux Directory Service - Account Authentication 
 
-### :pushpin: Difference between Active Directory, LDAP, IDM, WinBIND, OpenLDAP etc
+- Difference between Active Directory, LDAP, IDM, WinBIND, OpenLDAP etc
 
-### :pushpin: System Utility Commands (date, uptime, hostname, uname, which, cal, bc)
+- System Utility Commands (date, uptime, hostname, uname, which, cal, bc)
 
-### :pushpin: Processes, Jobs and Scheduling
+- Processes, Jobs and Scheduling
 
-### :pushpin: systemctl command
+- systemctl command
 
-### :pushpin: ps command
+- ps command
 
-### :pushpin: top command
+- top command
 
-### :pushpin: kill command
+- kill command
 
-### :pushpin: crontab command
+- crontab command
 
-### :pushpin: at command
+- at command
 
-### :pushpin: Additional cronjobs (hourly, daily, weekly, monthly)
+- Additional cronjobs (hourly, daily, weekly, monthly)
 
-### :pushpin: Process Management (bg, fg, nice)
+- Process Management (bg, fg, nice)
 
-### :pushpin: System Monitoring Commands (df, dmesg, iostat 1, netstat, free, top)
+- System Monitoring Commands (df, dmesg, iostat 1, netstat, free, top)
 
-### :pushpin: System Logs Monitor (/var/log)
+- System Logs Monitor (/var/log)
 
-### :pushpin: System Maintenance Commands (shutdown, init, reboot, halt)
+- System Maintenance Commands (shutdown, init, reboot, halt)
 
-### :pushpin: Changing System Hostname (hostnamectl)
+- Changing System Hostname (hostnamectl)
 
-### :pushpin: Finding System Information (uname, dmidecode)
+- Finding System Information (uname, dmidecode)
 
-### :pushpin: Finding System Architecture (arch)
+- Finding System Architecture (arch)
 
-### :pushpin: Terminal Controls Keys
+- Terminal Controls Keys
 
-### :pushpin: Terminal Commands (clear, exit, script)
+- Terminal Commands (clear, exit, script)
 
-### :pushpin: Recover Root Password
+- Recover Root Password
 
-### :pushpin: SOS Report
+- SOS Report
 
-### :pushpin: Environment Variables
+- Environment Variables
 
-### :pushpin: Special Permissions with setuid, setgid and stick bit
+- Special Permissions with setuid, setgid and stick bit
 
 
 ___
@@ -215,33 +215,33 @@ ___
 
 ## 📚 Module 6 - Shell Scripting
 
-### :pushpin: Linux Kernel 
+- Linux Kernel 
 
-### :pushpin: What is a Shell ?
+- What is a Shell ?
 
-### :pushpin: Types of Shells
+- Types of Shells
 
-### :pushpin: Shell Scripting 
+- Shell Scripting 
 
-### :pushpin: Basic shell scripts
+- Basic shell scripts
 
-### :pushpin: Input and Output of Script
+- Input and Output of Script
 
-### :pushpin: if-then Scripts
+- if-then Scripts
 
-### :pushpin: for-loop Scripts
+- for-loop Scripts
 
-### :pushpin: do-while Scripts
+- do-while Scripts
 
-### :pushpin: Case Statement Scripts
+- Case Statement Scripts
 
-### :pushpin: Check Remote Servers Connectivity
+- Check Remote Servers Connectivity
 
-### :pushpin: Aliases (alias)
+- Aliases (alias)
 
-### :pushpin: User and Global Aliases
+- User and Global Aliases
 
-### :pushpin: Shell History (history)
+- Shell History (history)
 
 
 ___
@@ -249,79 +249,79 @@ ___
 
 ## 📚 Module 7 - Networking, Services, and System Updates
 
-### :pushpin: Enable Internet on Linux VM
+- Enable Internet on Linux VM
 
-### :pushpin: Network Components
+- Network Components
 
-### :pushpin: Network Files and Commands (ping, ifconfig, ifup, ifdown, netstat, tcpdump)
+- Network Files and Commands (ping, ifconfig, ifup, ifdown, netstat, tcpdump)
 
-### :pushpin: NIC Information (ethtool)
+- NIC Information (ethtool)
 
-### :pushpin: NIC or Port Bonding 
+- NIC or Port Bonding 
 
-### :pushpin: New Network Utilities (nmtui, nmcli, nm-connection-editor and GNOME Settings)
+- New Network Utilities (nmtui, nmcli, nm-connection-editor and GNOME Settings)
 
-### :pushpin: Downloading Files or Apps (wget)
+- Downloading Files or Apps (wget)
 
-### :pushpin: curl and ping commands
+- curl and ping commands
 
-### :pushpin: FTP - File Transfer Protocol
+- FTP - File Transfer Protocol
 
-### :pushpin: SCP - Secure Copy Protocol 
+- SCP - Secure Copy Protocol 
 
-### :pushpin: rsync - Remote Synchronization
+- rsync - Remote Synchronization
 
-### :pushpin: Systems Updates and Repos (rpm, yum)
+- Systems Updates and Repos (rpm, yum)
 
-### :pushpin: System Upgrade and Patch Management
+- System Upgrade and Patch Management
 
-### :pushpin: Create Local Repository (Yum Server)
+- Create Local Repository (Yum Server)
 
-### :pushpin: Advance Package Management
+- Advance Package Management
 
-### :pushpin: Rollback Patches and Updates
+- Rollback Patches and Updates
 
-### :pushpin: SSH and Telnet
+- SSH and Telnet
 
-### :pushpin: DNS - Download, Install and Configure (domain name systems)
+- DNS - Download, Install and Configure (domain name systems)
 
-### :pushpin: Hostname or IP Lookup (nslookup, dig)
+- Hostname or IP Lookup (nslookup, dig)
 
-### :pushpin: Network Time Protocol (NTP)
+- Network Time Protocol (NTP)
 
-### :pushpin: chronyd (New Version of NTP)
+- chronyd (New Version of NTP)
 
-### :pushpin: New System Utility Command (timedatectl)
+- New System Utility Command (timedatectl)
 
-### :pushpin: Sendmail
+- Sendmail
 
-### :pushpin: Web Server (Apache - HTTP)
+- Web Server (Apache - HTTP)
 
-### :pushpin: Central Loggers (rsyslog)
+- Central Loggers (rsyslog)
 
-### :pushpin: Securing Linux Machine (OS Hardening)
+- Securing Linux Machine (OS Hardening)
 
-### :pushpin: OpenLDAP Installation 
+- OpenLDAP Installation 
 
-### :pushpin: Tracing Network Traffic (traceroute)
+- Tracing Network Traffic (traceroute)
 
-### :pushpin: How to open Image File through command line
+- How to open Image File through command line
 
-### :pushpin: Configure and Secure SSH
+- Configure and Secure SSH
 
-### :pushpin: SSH-Keys - Access Remote Server without Password
+- SSH-Keys - Access Remote Server without Password
 
-### :pushpin: Linux Web - based Administration (cockpit)
+- Linux Web - based Administration (cockpit)
 
-### :pushpin: Firewall
+- Firewall
 
-### :pushpin: Tune System Performance (tuned, nice and renice)
+- Tune System Performance (tuned, nice and renice)
 
-### :pushpin: Run Containers - dockers and podman
+- Run Containers - dockers and podman
 
-### :pushpin: Kickstart (Automate Linux Installation)
+- Kickstart (Automate Linux Installation)
 
-### :pushpin: DHCP Server
+- DHCP Server
 
 
 
@@ -331,53 +331,53 @@ ___
 ## 📚 Module 8 - Disk Management and Run Levels
 
 
-### :pushpin: System Run Levels (0 thru 6)
+- System Run Levels (0 thru 6)
 
-### :pushpin: Computer Boot Process
+- Computer Boot Process
 
-### :pushpin: Linux Boot Process
+- Linux Boot Process
 
-### :pushpin: Linux Boot Process (Newer Versions)
+- Linux Boot Process (Newer Versions)
 
-### :pushpin: Message of the Day (MOTD)
+- Message of the Day (MOTD)
 
-### :pushpin: Customize Message of the Day
+- Customize Message of the Day
 
-### :pushpin: Storage
+- Storage
 
-### :pushpin: Disk Partition (df, fdisk)
+- Disk Partition (df, fdisk)
 
-### :pushpin: Add Disk and Create Standard Partition
+- Add Disk and Create Standard Partition
 
-### :pushpin: Logical Volume Management (LVM)
+- Logical Volume Management (LVM)
 
-### :pushpin: LVM Configuration During Installation 
+- LVM Configuration During Installation 
 
-### :pushpin: Add Disk and Create New LVM Partition (pvcreate, vgcreate, lvcreate)
+- Add Disk and Create New LVM Partition (pvcreate, vgcreate, lvcreate)
 
-### :pushpin: Extend Disk using LVM
+- Extend Disk using LVM
 
-### :pushpin: Adding Swap Space
+- Adding Swap Space
 
-### :pushpin: Advance Storage Management with Stratis
+- Advance Storage Management with Stratis
 
-### :pushpin: RAID
+- RAID
 
-### :pushpin: File System Check (fsck and xfs_repair)
+- File System Check (fsck and xfs_repair)
 
-### :pushpin: System Backup (dd Command)
+- System Backup (dd Command)
 
-### :pushpin: Network File System (NFS)
+- Network File System (NFS)
 
-### :pushpin: Samba Installation and Configuration
+- Samba Installation and Configuration
 
-### :pushpin: NAS Drive for NFS or Samba
+- NAS Drive for NFS or Samba
 
-### :pushpin: SATA and SAS
+- SATA and SAS
 
-### :pushpin: Difference between CentOS/ Redhat 5, 6 and 7
+- Difference between CentOS/ Redhat 5, 6 and 7
 
-### :pushpin: Difference between CentOS/ RHEL 7 and 8
+- Difference between CentOS/ RHEL 7 and 8
 
 
 ___
